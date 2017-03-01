@@ -1,0 +1,24 @@
+﻿menu:
+	- home
+	- Học tiếng việt
+		+ Khóa học nhập môn
+		+ Ngữ pháp cơ sở
+		+ Khóa nghe nói
+	- Du lịch VN(Hình, desc -> view)
+		+ Con người
+		+ Văn Hóa
+		+ Địa điểm du lịch
+		+ Đặc sản
+		
+	- Liên hệ
+		
+slide: điểm nhấn
+
+y/c giao diện: animation, đơn giản, tích hợp đa màn hình.
+mục tiêu: seo cao.
+
+
+<div class="td-skin-container td-skin-buy"><a target="_blank" href="http://themeforest.net/item/newspaper/5489609?ref=tagdiv">BUY NEWSPAPER NOW!</a></div>
+						    <div class="td-skin-container td-skin-header">GET AN AWESOME START!</div>
+						    <div class="td-skin-container td-skin-desc">With easy <span>ONE CLICK INSTALL</span> and fully customizable options, our demos the best start you'll ever get!!</div>
+
